@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\2002t\source\repos\Johnson_J_Program4\Johnson_J_Program4\main.cpp(102,13): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\2002t\source\repos\Johnson_J_Program4\Johnson_J_Program4\main.cpp(147,13): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Johnson_J_Program4.vcxproj -> C:\Users\2002t\source\repos\Johnson_J_Program4\x64\Debug\Johnson_J_Program4.exe
